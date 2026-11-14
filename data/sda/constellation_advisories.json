@@ -1,0 +1,21 @@
+{
+ "classificationMarking": "U",
+ "dataMode": "SIMULATED",
+ "source": "StraightRows-SYN",
+ "advisories": [
+  {
+   "id": "ADV-2026-117",
+   "ts": "2026-05-04T08:00:00+00:00",
+   "type": "ROUTINE",
+   "svn": "G14",
+   "text": "GPS SVN G14 scheduled maintenance window; set unusable 0800-0930Z. No constellation-level impact expected."
+  },
+  {
+   "id": "ADV-2026-118",
+   "ts": "2026-05-05T07:00:00+00:00",
+   "type": "SPACE_WEATHER",
+   "svn": null,
+   "text": "Severe geomagnetic storming in progress (G4-G5). Degraded single- and dual-frequency GNSS accuracy expected at mid and high latitudes for 24-48 h."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "classificationMarking": "U",
+ "dataMode": "SIMULATED",
+ "source": "StraightRows-SYN",
+ "reports": [
+  {
+   "id": "RFI-001",
+   "ts": "2026-05-04T16:44:48.993670+00:00",
+   "band": "L1",
+   "confidence": 0.6,
+   "centerLat": 46.908072,
+   "centerLon": -97.192686,
+   "semiMajor_km": 3.44,
+   "semiMinor_km": 1.04,
+   "text": "Possible intentional L1 interference detected by regional monitor; geolocation approximate."
+  },
+  {
+   "id": "RFI-002",
+   "ts": "2026-05-04T21:10:43.395253+00:00",
+   "band": "L1",
+   "confidence": 0.55,
+   "centerLat": 46.90602,
+   "centerLon": -97.212547,
+   "semiMajor_km": 1.63,
+   "semiMinor_km": 1.53,
+   "text": "Possible intentional L1 interference detected by regional monitor; geolocation approximate."
+  },
+  {
+   "id": "RFI-004",
+   "ts": "2026-05-05T10:36:00+00:00",
+   "band": "L1",
+   "confidence": 0.35,
+   "centerLat": 46.93,
+   "centerLon": -97.25,
+   "semiMajor_km": 6.0,
+   "semiMinor_km": 3.5,
+   "text": "Low-confidence interference candidate; may be storm-related receiver noise. Unconfirmed."
+  },
+  {
+   "id": "RFI-003",
+   "ts": "2026-05-06T02:38:59.290612+00:00",
+   "band": "L1",
+   "confidence": 0.57,
+   "centerLat": 46.888896,
+   "centerLon": -97.208767,
+   "semiMajor_km": 3.5,
+   "semiMinor_km": 1.91,
+   "text": "Possible intentional L1 interference detected by regional monitor; geolocation approximate."
+  }
+ ]
+}
